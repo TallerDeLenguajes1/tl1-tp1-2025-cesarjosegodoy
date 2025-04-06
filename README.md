@@ -54,4 +54,16 @@ Una vez confirmado el archivo .gitignore, establece reglas de ignorar compartida
 
 
 
+## 3-g
+
+* El resultado es el mismo porque la direccion de memoria almacenada del puntero es la misma de la variable declarada
+porque los punteros guardan como valor direcciones de memoria y en la de la variable porque fue declarada previamente mediante la 
+asignacion (pVar= &var)
+
+* En el punto 4 se obtiene la direccion del puntero que no es la misma a la que el puntero apunta 
+
+
+
+
+
 
